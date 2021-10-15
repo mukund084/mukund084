@@ -1,4 +1,4 @@
-- 👋 I’m Mukund Rana. I am an aspiring software engineer interested in Machine Learning, Blockchain Development, and Autonomous Technologies. I am a hardworking and focused student studying at the University of Waterloo, dedicated to lifelong learning and Software development. 
+- 👋 I’m Mukund Rana.
 
 - 👀 I’m interested in Machine Learning, Blockchain Development, and Autonomous Technologies
 - 🌱 I’m currently learning 

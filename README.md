@@ -1,6 +1,6 @@
 ### Hi there! I am Mukund Rana 👋
 
-I'm a fourth-year Double Degree student @ UWaterloo and WLU for Mathematics and Business Administration interested in Data Science, Data Engineering and Machine Learning. 
+I'm a fourth-year Double Degree student @ UWaterloo and WLU studying Mathematics and Business Administration. 
 
 About Me
 - 📚 I’m currently learning Pytorch, Tensorflow, and Pyspark. 

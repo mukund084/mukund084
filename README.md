@@ -1,1 +1,1 @@
-### Hi there! I am Mukund Rana 👋
+### Hi! I am Mukund Rana 👋
